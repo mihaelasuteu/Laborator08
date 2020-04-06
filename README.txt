@@ -9,6 +9,6 @@ introduc datele.
 
 Link-uri aplicatie:
 https://www.youtube.com/watch?v=VQKq9RHMS_0&list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&index=3
-https://www.youtube.com/watch?v=VQKq9RHMS_0&list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&index=2
-https://www.youtube.com/watch?v=VQKq9RHMS_0&list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&index=1
+https://www.youtube.com/watch?v=RGzblJuat1M&list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&index=2
+https://www.youtube.com/watch?v=hJPk50p7xwA&list=PLSrm9z4zp4mGK0g_0_jxYGgg3os9tqRUQ&index=1
 
